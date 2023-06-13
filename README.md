@@ -1,5 +1,6 @@
-# EasyInstallerV2
+# EasyInstallerGUI
 
+This is a (very bad) GUI version of https://github.com/simplyblk/EasyInstallerV2
 
 Credits to [Ender](https://github.com/Ender-0001/) for writing the original EasyInstallerV2 code, [Kyrio's EasyInstaller](https://github.com/Kyiro/Fortnite-ManifestsArchive) for inspiration on design, and [blk](https://github.com/simplyblk) for providing and maintaing servers.  
 
