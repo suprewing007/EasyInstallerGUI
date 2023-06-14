@@ -12,4 +12,3 @@ Credits to [Ender](https://github.com/Ender-0001/) for writing the original Easy
 
 If you wish to use this somewhere or contribute to add a build, DM me @ blk#6964, or send me an Email @ FortniteBuildsArchive@gmail.com
 
-ps: im currently rewriting program in c# 
